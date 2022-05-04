@@ -1,0 +1,6 @@
+Come importare la libreria su modelica?
+File -> open model/library files -> seleziona il file package.mo del professore
+
+Come funziona modelica?
+Tu crei un modello composto da vari componenti.
+Il modello lo puoi creare con codice contenuto in un file .mo oppure tramite editor grafico (che genera un file .mo con la descrizione del modello).
