@@ -1,8 +1,0 @@
-Esperimenti per ricavare 4 funzioni di trasferimento:
--> Qheat/temperatura
--> pump/dPressione
--> Qheat/dPressione
--> pump/temperatura
-
-Per ottenerle metti in ingresso uno step e misura l'output.
-Dalla risposta in frequenza dell'output ottieni parametri della FdT (vedi slide automatica bergamo, lo spiegavano).
